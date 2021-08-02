@@ -11,7 +11,7 @@ Four main services are:
 - device
 - producer
 - worker
-- end oF pipeline
+- end of pipeline
 
 Docker and Docker Compose are used to containerize the Micro-services.
 
